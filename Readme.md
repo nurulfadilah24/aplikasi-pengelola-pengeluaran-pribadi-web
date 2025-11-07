@@ -40,11 +40,14 @@ Proyek ini dibagi menjadi empat bagian utama:
 - Dibuat menggunakan *Figma* agar dapat diatur secara konsisten di semua halaman.
 <Img src="gambar UI.png">
 
-### 4. UX (User Experience) Project
+## 4. UX (User Experience) Project
 - Menguji dan menilai bagaimana pengguna berinteraksi dengan aplikasi.  
 - Meliputi analisis kenyamanan navigasi, kemudahan penggunaan, serta tampilan keseluruhan.  
-- Diuji menggunakan fitur prototype di Figma.
-<Img src="https://youtube.com/shorts/PhcZ7YKwzgE?si=r7aWUTJ8EhAv1fnL">
+- Diuji menggunakan fitur prototype di Figma.  
+
+🎥 **Tonton Video UX MoneyTrack di YouTube:**  
+[![Video UX MoneyTrack](https://img.youtube.com/vi/BcFpdv_geVA/0.jpg)](https://www.youtube.com/watch?v=BcFpdv_geVA)
+
 
 ---
 
@@ -89,6 +92,6 @@ Berikut beberapa tampilan hasil desain:
 - Detail Produk
 - Profil Pengguna  
 
-📎 [Link Desain di Figma](https://www.figma.com/design/pwUEKh1GqOw3WQeA3zwG2S/aplikasi?node-id=0-1&t=DXuFabiUi6EOhtP8-1) (opsional, tambahkan jika ada)  
+📎 [Link Desain di Figma](https://www.figma.com/design/pwUEKh1GqOw3WQeA3zwG2S/aplikasi?node-id=0-1&t=DXuFabiUi6EOhtP8-1)  
 
 ---
