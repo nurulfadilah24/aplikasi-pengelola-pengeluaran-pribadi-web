@@ -92,6 +92,5 @@ Berikut beberapa tampilan hasil desain:
 - Detail Produk
 - Profil Pengguna  
 
-📎 [Link Desain di Figma](https://www.figma.com/design/pwUEKh1GqOw3WQeA3zwG2S/aplikasi?node-id=0-1&t=DXuFabiUi6EOhtP8-1)  
+📎 **[Lihat Desain di Figma](https://www.figma.com/proto/pwUEKh1GqOw3WQeA3zwG2S/aplikasi?node-id=0-1&t=DXuFabiUi6EOhtP8-1)**
 
----
